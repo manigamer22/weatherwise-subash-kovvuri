@@ -11,7 +11,7 @@ Welcome to the **WeatherWise Assignment Starter Template**! This repository help
 ## 🚀 How to Use This Template
 
 1. Click **"Use this template"** on GitHub to create your own copy.
-2. Rename your repository to something like `weatherwise-jane-doe`.
+2. Rename your repository to something like `weatherwise-subash-kovvuri`.
 3. Clone it and start developing in `starter_notebook.ipynb`.
 
 ---
