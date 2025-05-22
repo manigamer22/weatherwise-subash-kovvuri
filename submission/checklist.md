@@ -18,25 +18,25 @@ Use this checklist to track your progress and ensure your Weather Advisor projec
 
 ## Repository Setup
 
-- [ ] Repository created from template
-- [ ] README.md updated with your project information
-- [ ] Instructor (michael-borck) invited to your repository
+- [✅ ] Repository created from template
+- [✅ ] README.md updated with your project information
+- [✅ ] Instructor (michael-borck) invited to your repository
 
 ## Notebook Organisation
 
-- [ ] Notebook has clear section headers using markdown cells
-- [ ] Sections are logically organised and follow the required structure
-- [ ] Code includes appropriate comments and docstrings
-- [ ] No unused code or unnecessary cells
-- [ ] All imports are at the top of the notebook or in the appropriate section
+- [✅ ] Notebook has clear section headers using markdown cells
+- [✅ ] Sections are logically organised and follow the required structure
+- [✅ ] Code includes appropriate comments and docstrings
+- [✅ ] No unused code or unnecessary cells
+- [✅ ] All imports are at the top of the notebook or in the appropriate section
 
 ## Weather Data Component
 
-- [ ] Successfully retrieves weather data from chosen source
-- [ ] Handles connection errors and timeouts gracefully
-- [ ] Validates user input (e.g., city names, parameters)
-- [ ] Processes and structures the data for use in the application
-- [ ] Provides meaningful error messages for users
+- [✅ ] Successfully retrieves weather data from chosen source
+- [✅ ] Handles connection errors and timeouts gracefully
+- [✅ ] Validates user input (e.g., city names, parameters)
+- [ ✅] Processes and structures the data for use in the application
+- [✅ ] Provides meaningful error messages for users
 
 ## Visualisation Component
 
